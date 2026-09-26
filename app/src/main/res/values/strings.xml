@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+    <string name="notification_channel_name">Translator</string>
+    <string name="notification_channel_description">Shows when continuous translation is running in the background.</string>
+    <string name="notification_title">English → Chinese Translator</string>
+    <string name="notification_running">Listening and translating…</string>
+    <string name="notification_paused">Paused</string>
+    <string name="notification_stopped">Stopped</string>
+
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_stop">Stop</string>
+</resources>

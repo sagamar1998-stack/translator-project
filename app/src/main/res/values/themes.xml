@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+        Base application theme. The real theming lives in Jetpack Compose
+        (TranslatorTheme), but the manifest still needs an XML theme so the
+        Activity has a sensible look before Compose takes over.
+    -->
+    <style name="Theme.Translator" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
